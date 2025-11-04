@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zaroui Abdelkader and I'm a FullStack web developer, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Zaroui Abdelkader and I'm a FullStack web developer</h2>
 
 ###
 
